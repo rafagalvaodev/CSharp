@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\C Sharp\TestaLower\bin\Debug\net7.0\TestaLower.exe
+C:\Users\pc\Desktop\C Sharp\TestaLower\bin\Debug\net7.0\TestaLower.deps.json
+C:\Users\pc\Desktop\C Sharp\TestaLower\bin\Debug\net7.0\TestaLower.runtimeconfig.json
+C:\Users\pc\Desktop\C Sharp\TestaLower\bin\Debug\net7.0\TestaLower.dll
+C:\Users\pc\Desktop\C Sharp\TestaLower\bin\Debug\net7.0\TestaLower.pdb
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.AssemblyInfo.cs
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.dll
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\refint\TestaLower.dll
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.pdb
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\TestaLower.genruntimeconfig.cache
+C:\Users\pc\Desktop\C Sharp\TestaLower\obj\Debug\net7.0\ref\TestaLower.dll

@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TipoDelegate\TipoDelegate\obj\Debug\TipoDelegate.pdb

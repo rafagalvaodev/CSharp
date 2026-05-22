@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\bin\Debug\Boas-Vindas 2 - easter egg.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\bin\Debug\Boas-Vindas 2 - easter egg.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\bin\Debug\Boas-Vindas 2 - easter egg.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\obj\Debug\Boas-Vindas 2 - easter egg.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\obj\Debug\Boas-Vindas 2 - easter egg.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\obj\Debug\Boas-Vindas 2 - easter egg.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\obj\Debug\Boas-Vindas 2 - easter egg.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Boas-Vindas 2 - easter egg\obj\Debug\Boas-Vindas 2 - easter egg.pdb

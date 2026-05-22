@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\bin\Debug\Sucessor_E_Antecesso.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\bin\Debug\Sucessor_E_Antecesso.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\bin\Debug\Sucessor_E_Antecesso.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\obj\Debug\Sucessor_E_Antecesso.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\obj\Debug\Sucessor_E_Antecesso.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\obj\Debug\Sucessor_E_Antecesso.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\obj\Debug\Sucessor_E_Antecesso.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Sucessor_E_Antecesso\Sucessor_E_Antecesso\obj\Debug\Sucessor_E_Antecesso.pdb

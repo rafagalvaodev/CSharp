@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\bin\Debug\Notas.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\bin\Debug\Notas.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\bin\Debug\Notas.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\obj\Debug\Notas.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\obj\Debug\Notas.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\obj\Debug\Notas.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Notas\Notas\obj\Debug\Notas.pdb

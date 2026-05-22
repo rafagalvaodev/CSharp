@@ -1,0 +1,14 @@
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.AssemblyInfo.cs
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\bin\Debug\net7.0\HotelDIO.exe
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\bin\Debug\net7.0\HotelDIO.deps.json
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\bin\Debug\net7.0\HotelDIO.runtimeconfig.json
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\bin\Debug\net7.0\HotelDIO.dll
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\bin\Debug\net7.0\HotelDIO.pdb
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.dll
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\refint\HotelDIO.dll
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.pdb
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\HotelDIO.genruntimeconfig.cache
+C:\Users\Dev\Desktop\testecodigo\HotelDIO\obj\Debug\net7.0\ref\HotelDIO.dll

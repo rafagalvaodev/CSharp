@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\bin\Debug\whiles.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\bin\Debug\whiles.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\bin\Debug\whiles.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\obj\Debug\whiles.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\obj\Debug\whiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\obj\Debug\whiles.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\obj\Debug\whiles.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\whiles\whiles\obj\Debug\whiles.pdb

@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\bin\Debug\DobroTriploRaiz.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\bin\Debug\DobroTriploRaiz.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\bin\Debug\DobroTriploRaiz.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\obj\Debug\DobroTriploRaiz.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\obj\Debug\DobroTriploRaiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\obj\Debug\DobroTriploRaiz.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\obj\Debug\DobroTriploRaiz.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DobroTriploRaiz\DobroTriploRaiz\obj\Debug\DobroTriploRaiz.pdb

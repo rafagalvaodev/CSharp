@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\bin\Debug\FactorialReculsivo.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\bin\Debug\FactorialReculsivo.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\bin\Debug\FactorialReculsivo.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\obj\Debug\FactorialReculsivo.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\obj\Debug\FactorialReculsivo.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\obj\Debug\FactorialReculsivo.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FactorialReculsivo\FactorialReculsivo\obj\Debug\FactorialReculsivo.pdb

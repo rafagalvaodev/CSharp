@@ -1,0 +1,15 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\bin\Debug\net6.0\função reculsiva.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\bin\Debug\net6.0\função reculsiva.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\bin\Debug\net6.0\função reculsiva.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\bin\Debug\net6.0\função reculsiva.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\bin\Debug\net6.0\função reculsiva.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\refint\função reculsiva.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\função reculsiva.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\função reculsiva\obj\Debug\net6.0\ref\função reculsiva.dll

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Calculadora</id>
+    <version>1.0.0</version>
+    <authors>Calculadora</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json" target="lib\net6.0\Calculadora.runtimeconfig.json" />
+    <file src="C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll" target="lib\net6.0\Calculadora.dll" />
+  </files>
+</package>

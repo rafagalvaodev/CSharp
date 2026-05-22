@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\bin\Debug\Inteiro.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\bin\Debug\Inteiro.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\bin\Debug\Inteiro.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\obj\Debug\Inteiro.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\obj\Debug\Inteiro.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\obj\Debug\Inteiro.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Inteiro\Inteiro\obj\Debug\Inteiro.pdb

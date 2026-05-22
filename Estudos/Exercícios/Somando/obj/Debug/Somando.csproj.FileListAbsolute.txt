@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\bin\Debug\Somando.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\bin\Debug\Somando.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\bin\Debug\Somando.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\obj\Debug\Somando.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\obj\Debug\Somando.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\obj\Debug\Somando.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\obj\Debug\Somando.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Somando\obj\Debug\Somando.pdb

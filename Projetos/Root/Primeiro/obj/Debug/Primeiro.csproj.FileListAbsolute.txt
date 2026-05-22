@@ -1,0 +1,11 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\bin\Debug\Primeiro.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\bin\Debug\Primeiro.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\bin\Debug\Primeiro.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.Properties.Resources.resources
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.csproj.GenerateResource.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Root\Primeiro\obj\Debug\Primeiro.Form1.resources

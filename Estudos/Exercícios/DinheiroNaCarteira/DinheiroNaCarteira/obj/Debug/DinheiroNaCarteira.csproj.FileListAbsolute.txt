@@ -1,0 +1,14 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\bin\Debug\DinheiroNaCarteira.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\bin\Debug\DinheiroNaCarteira.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\bin\Debug\DinheiroNaCarteira.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\obj\Debug\DinheiroNaCarteira.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\bin\Debug\DinheiroNaCarteira.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\bin\Debug\DinheiroNaCarteira.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\DinheiroNaCarteira\DinheiroNaCarteira\bin\Debug\DinheiroNaCarteira.pdb

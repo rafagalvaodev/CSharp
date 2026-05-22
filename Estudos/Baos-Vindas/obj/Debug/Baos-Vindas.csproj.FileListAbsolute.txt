@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\bin\Debug\Baos-Vindas.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\bin\Debug\Baos-Vindas.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\bin\Debug\Baos-Vindas.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\obj\Debug\Baos-Vindas.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\obj\Debug\Baos-Vindas.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\obj\Debug\Baos-Vindas.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\obj\Debug\Baos-Vindas.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Baos-Vindas\obj\Debug\Baos-Vindas.pdb

@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\bin\Debug\Tinta.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\bin\Debug\Tinta.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\bin\Debug\Tinta.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\obj\Debug\Tinta.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\obj\Debug\Tinta.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\obj\Debug\Tinta.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tinta\Tinta\obj\Debug\Tinta.pdb

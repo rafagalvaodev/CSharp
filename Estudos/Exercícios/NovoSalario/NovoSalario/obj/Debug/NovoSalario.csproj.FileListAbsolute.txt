@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\bin\Debug\NovoSalario.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\bin\Debug\NovoSalario.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\bin\Debug\NovoSalario.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\obj\Debug\NovoSalario.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\obj\Debug\NovoSalario.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\obj\Debug\NovoSalario.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\NovoSalario\NovoSalario\obj\Debug\NovoSalario.pdb

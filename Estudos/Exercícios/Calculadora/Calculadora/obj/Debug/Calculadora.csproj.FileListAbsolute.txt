@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Exercícios\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

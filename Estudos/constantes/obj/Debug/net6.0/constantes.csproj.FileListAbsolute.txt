@@ -1,0 +1,5 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constantes\obj\Debug\net6.0\constantes.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constantes\obj\Debug\net6.0\constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constantes\obj\Debug\net6.0\constantes.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constantes\obj\Debug\net6.0\constantes.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constantes\obj\Debug\net6.0\constantes.csproj.CoreCompileInputs.cache

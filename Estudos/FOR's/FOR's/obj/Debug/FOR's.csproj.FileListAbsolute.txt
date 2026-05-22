@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\bin\Debug\FOR's.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\bin\Debug\FOR's.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\bin\Debug\FOR's.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\obj\Debug\FOR's.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\obj\Debug\FOR's.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\obj\Debug\FOR's.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\obj\Debug\FOR's.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOR's\FOR's\obj\Debug\FOR's.pdb

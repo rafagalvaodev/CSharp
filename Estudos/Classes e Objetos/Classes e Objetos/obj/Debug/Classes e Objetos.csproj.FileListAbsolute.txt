@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\bin\Debug\Classes e Objetos.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\bin\Debug\Classes e Objetos.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\bin\Debug\Classes e Objetos.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\obj\Debug\Classes e Objetos.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\obj\Debug\Classes e Objetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\obj\Debug\Classes e Objetos.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\obj\Debug\Classes e Objetos.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Classes e Objetos\Classes e Objetos\obj\Debug\Classes e Objetos.pdb

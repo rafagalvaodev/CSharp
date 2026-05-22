@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\bin\Debug\Loopings.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\bin\Debug\Loopings.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\bin\Debug\Loopings.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\obj\Debug\Loopings.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\obj\Debug\Loopings.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\obj\Debug\Loopings.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\obj\Debug\Loopings.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Loopings\obj\Debug\Loopings.pdb

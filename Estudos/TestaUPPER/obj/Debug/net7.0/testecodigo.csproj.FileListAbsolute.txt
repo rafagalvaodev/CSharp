@@ -1,0 +1,14 @@
+C:\Users\Dev\Desktop\testecodigo\bin\Debug\net7.0\testecodigo.exe
+C:\Users\Dev\Desktop\testecodigo\bin\Debug\net7.0\testecodigo.deps.json
+C:\Users\Dev\Desktop\testecodigo\bin\Debug\net7.0\testecodigo.runtimeconfig.json
+C:\Users\Dev\Desktop\testecodigo\bin\Debug\net7.0\testecodigo.dll
+C:\Users\Dev\Desktop\testecodigo\bin\Debug\net7.0\testecodigo.pdb
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.AssemblyInfo.cs
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.dll
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\refint\testecodigo.dll
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.pdb
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\testecodigo.genruntimeconfig.cache
+C:\Users\Dev\Desktop\testecodigo\obj\Debug\net7.0\ref\testecodigo.dll

@@ -1,0 +1,15 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\bin\Debug\net6.0\Ifs.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\bin\Debug\net6.0\Ifs.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\bin\Debug\net6.0\Ifs.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\bin\Debug\net6.0\Ifs.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\bin\Debug\net6.0\Ifs.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\refint\Ifs.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\Ifs.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Ifs\obj\Debug\net6.0\ref\Ifs.dll

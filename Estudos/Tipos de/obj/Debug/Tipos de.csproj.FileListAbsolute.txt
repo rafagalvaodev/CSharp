@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\bin\Debug\Tipos de.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\bin\Debug\Tipos de.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\bin\Debug\Tipos de.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\obj\Debug\Tipos de.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\obj\Debug\Tipos de.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\obj\Debug\Tipos de.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\obj\Debug\Tipos de.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos de\obj\Debug\Tipos de.pdb

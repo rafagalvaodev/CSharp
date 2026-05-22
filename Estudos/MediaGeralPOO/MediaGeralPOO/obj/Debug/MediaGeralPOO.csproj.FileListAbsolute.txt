@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\bin\Debug\MediaGeralPOO.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MediaGeralPOO\MediaGeralPOO\obj\Debug\MediaGeralPOO.pdb

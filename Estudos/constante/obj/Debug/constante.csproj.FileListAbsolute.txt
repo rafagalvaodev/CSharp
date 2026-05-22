@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\bin\Debug\constante.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\bin\Debug\constante.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\bin\Debug\constante.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\obj\Debug\constante.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\obj\Debug\constante.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\obj\Debug\constante.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\obj\Debug\constante.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\constante\obj\Debug\constante.pdb

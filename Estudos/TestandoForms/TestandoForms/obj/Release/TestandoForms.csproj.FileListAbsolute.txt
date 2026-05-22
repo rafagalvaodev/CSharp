@@ -1,0 +1,10 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\bin\Release\TestandoForms.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\bin\Release\TestandoForms.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\bin\Release\TestandoForms.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.Form1.resources
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.Properties.Resources.resources
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.csproj.GenerateResource.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TestandoForms\TestandoForms\obj\Release\TestandoForms.pdb

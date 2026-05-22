@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\bin\Debug\TesteDateTime.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\bin\Debug\TesteDateTime.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\bin\Debug\TesteDateTime.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\obj\Debug\TesteDateTime.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\obj\Debug\TesteDateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\obj\Debug\TesteDateTime.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\obj\Debug\TesteDateTime.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\TesteDateTime\TesteDateTime\obj\Debug\TesteDateTime.pdb

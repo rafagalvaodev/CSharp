@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\bin\Debug\FOREACH's.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\bin\Debug\FOREACH's.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\bin\Debug\FOREACH's.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\obj\Debug\FOREACH's.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\obj\Debug\FOREACH's.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\obj\Debug\FOREACH's.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\obj\Debug\FOREACH's.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\FOREACH's\FOREACH's\obj\Debug\FOREACH's.pdb

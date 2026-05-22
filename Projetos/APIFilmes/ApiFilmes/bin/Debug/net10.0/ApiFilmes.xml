@@ -1,0 +1,851 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiFilmes</name>
+    </assembly>
+    <members>
+        <member name="T:ApiFilmes.Controllers.AddressController">
+            <summary>
+                Controller de endereço
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controllers.AddressController.#ctor(ApiFilmes.Data.MovieContext,AutoMapper.IMapper)">
+            <summary>
+            O Construtor da controller
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controllers.AddressController.AddAddress(ApiFilmes.Dtos.CreateAddressDTO)">
+            <summary>
+                Adiciona um endereço ao banco de dados
+            </summary>
+            <param name="addressDTO">
+                Objeto com os campos necessários para a criação de um endereço
+            </param>
+            <returns>IActionResult</returns>
+            <response code="201"> Caso inserção seja realizada com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.AddressController.GetAddress(System.Int32,System.Int32)">
+            <summary>
+                Retorna uma lista de endereços
+            </summary>
+            <param name="skip">
+                Pula um valor determinado  
+            </param>
+            <param name="take">
+                Pega um valor determinado      
+             </param>
+            <returns>IEnumerable</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.AddressController.GetAddressById(System.Int32)">
+            <summary>
+                Retorna um endereço por id
+            </summary>
+            <param name="id">
+                Usado para retornar o endereço do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.AddressController.UpdateAddress(System.Int32,ApiFilmes.Dtos.UpdateAddressDTO)">
+            <summary>
+                Atualiza um endereço por id
+            </summary>
+            /// <remarks>
+            Exemplo de requisição:
+            
+                PUT /address/1
+                {
+                   "street": "Novo Nome",
+                    "number": 0
+                }
+            
+            </remarks>
+            <param name="id">Id do endereço a ser atualizado </param>
+            <param name="addressDTO">
+                Objeto usado para atualizar inteiramente um endereço do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="204">endereço atualizado com sucesso </response>
+            <response code="404">Caso o endereço com o ID informado não exista</response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.AddressController.RemoveAddress(System.Int32)">
+            <summary>
+                Remove um endereço do banco de dados utilizando o ID.
+            </summary>
+            <param name="id">ID numérico do endereço que deseja remover.</param>
+            <returns>IActionResult</returns>
+            <response code="204">Endereço removido com sucesso.</response>
+            <response code="404">Caso não exista um endereço com o ID informado.</response>
+        </member>
+        <member name="T:ApiFilmes.Controllers.CinemaController">
+            <summary>
+                Controller de cinema
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controllers.CinemaController.#ctor(ApiFilmes.Data.MovieContext,AutoMapper.IMapper)">
+            <summary>
+            O Construtor da controller
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controllers.CinemaController.AddCinema(ApiFilmes.Dtos.CreateCinemaDTO)">
+            <summary>
+                Adiciona um cinema ao banco de dados
+            </summary>
+            <param name="cinemaDto">
+                Objeto com os campos necessários para a criação de um cinema 
+            </param>
+            <returns>IActionResult</returns>
+            <response code="201"> Caso inserção seja realizada com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.CinemaController.GetCinema(System.Int32,System.Int32,System.Nullable{System.Int32})">
+            <summary>
+                Retorna uma lista de cinemas
+            </summary>
+            <param name="skip">
+                Pula um valor determinado  
+            </param>
+            <param name="take">
+                Pega um valor determinado      
+             </param>
+            <returns>IEnumerable</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.CinemaController.GetCinemaById(System.Int32)">
+            <summary>
+                Retorna um cinema por id
+            </summary>
+            <param name="id">
+                Usado para retornar o cinema do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.CinemaController.UpdateMovie(System.Int32,ApiFilmes.Dtos.UpdateCinemaDTO)">
+            <summary>
+                Atualiza um cinema por id
+            </summary>
+            /// <remarks>
+            Exemplo de requisição:
+            
+                PUT /cinema/1
+                {
+                   "name": "Novo Nome",
+                }
+            
+            </remarks>
+            <param name="id">Id do cinema a ser atualizado </param>
+            <param name="cinemaDTO">
+                Objeto usado para atualizar inteiramente um cinema do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="204"> cinema atualizado com sucesso </response>
+            <response code="404">Caso o cinema com o ID informado não exista</response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.CinemaController.RemoveCinema(System.Int32)">
+            <summary>
+                Remove um cinema do banco de dados utilizando o ID.
+            </summary>
+            <param name="id">ID numérico do cinema que deseja remover.</param>
+            <returns>IActionResult</returns>
+            <response code="204">Cinema removido com sucesso.</response>
+            <response code="404">Caso não exista um cinema com o ID informado.</response>
+        </member>
+        <member name="T:ApiFilmes.Controllers.SessionController">
+            <summary>
+                Controller de sessão
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controllers.SessionController.#ctor(ApiFilmes.Data.MovieContext,AutoMapper.IMapper)">
+            <summary>
+            O Construtor da controller
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controllers.SessionController.AddSession(ApiFilmes.Dtos.CreateSessionDTO)">
+            <summary>
+                Adiciona uma sessão ao banco de dados
+            </summary>
+            <param name="sessionDTO">
+                Objeto com os campos necessários para a criação de uma sessão
+            </param>
+            <returns>IActionResult</returns>
+            <response code="201"> Caso inserção seja realizada com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.SessionController.GetSession(System.Int32,System.Int32)">
+            <summary>
+                Retorna uma lista de sessões
+            </summary>
+            <param name="skip">
+                Pula um valor determinado  
+            </param>
+            <param name="take">
+                Pega um valor determinado      
+             </param>
+            <returns>IEnumerable</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.SessionController.GetSessionById(System.Int32,System.Int32)">
+            <summary>
+                Retorna uma sessão por id
+            </summary>
+            <param name="id">
+                Usado para retornar da sessão do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.SessionController.UpdateSession(System.Int32,ApiFilmes.Dtos.UpdateAddressDTO)">
+            <summary>
+                Atualiza uma sessão por id
+            </summary>
+            /// <remarks>
+            Exemplo de requisição:
+            
+                PUT /session/1
+                {
+                   "name": "Novo Nome",
+                }
+            
+            </remarks>
+            <param name="id">Id da sessão a ser atualizado </param>
+            <param name="addressDTO">
+                Objeto usado para atualizar inteiramente uma sessão do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="204">Sessão atualizado com sucesso </response>
+            <response code="404">Caso o sessão com o ID informado não exista</response>
+        </member>
+        <member name="M:ApiFilmes.Controllers.SessionController.RemoveAddress(System.Int32)">
+            <summary>
+                Remove um endereço do banco de dados utilizando o ID.
+            </summary>
+            <param name="id">ID numérico do endereço que deseja remover.</param>
+            <returns>IActionResult</returns>
+            <response code="204">Endereço removido com sucesso.</response>
+            <response code="404">Caso não exista um cinema com o ID informado.</response>
+        </member>
+        <member name="T:ApiFilmes.Controller.MovieController">
+            <summary>
+                Principal controller da API
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.#ctor(ApiFilmes.Data.MovieContext,AutoMapper.IMapper)">
+            <summary>
+            O Construtor da controller
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.AddMovie(ApiFilmes.Dtos.CreateMovieDTO)">
+            <summary>
+                Adiciona um filme ao banco de dados
+            </summary>
+            <param name="movieDto">
+                Objeto com os campos necessários para a criação de um filme 
+            </param>
+            <returns>IActionResult</returns>
+            <response code="201"> Caso inserção seja realizada com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.GetMovies(System.Int32,System.Int32,System.String)">
+            <summary>
+                Retorna uma lista de filmes 
+            </summary>
+            <param name="skip">
+                Pula um valor determinado  
+            </param>
+            <param name="take">
+                Pega um valor determinado      
+             </param>
+            <returns>IEnumerable</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.GetMovieById(System.Int32)">
+            <summary>
+                Retorna um filme por id
+            </summary>
+            <param name="id">
+                Usado para retornar o filme do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="200"> Caso retorno com sucesso </response>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.UpdateMovie(System.Int32,ApiFilmes.Dtos.UpdateMovieDTO)">
+            <summary>
+                Atualiza um filme por id
+            </summary>
+            /// <remarks>
+            Exemplo de requisição:
+            
+                PUT /movie/1
+                {
+                   "titulo": "Novo Nome",
+                   "diretor": "Novo Diretor",
+                   "duracao": 120
+                }
+            
+            </remarks>
+            <param name="id">Id do filme a ser atualizado </param>
+            <param name="movieDTO">
+                Objeto usado para atualizar inteiramente um filme do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="204"> Filme atualizado com sucesso </response>
+            <response code="404">Caso o filme com o ID informado não exista</response>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.UpdateMoviePatch(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{ApiFilmes.Dtos.UpdateMovieDTO})">
+            <summary>
+                Atualiza um filme por id
+            </summary>
+            <param name="id">Id do filme a ser atualizado </param>
+            <param name="movieDTOPatch">
+                Objeto usado para atualizar parcialmente um filme do banco  
+            </param>
+            <returns>IActionResult</returns>
+            <response code="204"> Filme atualizado com sucesso </response>
+            <response code="404">Caso o filme com o ID informado não seja encontrado.</response>
+            <response code="400">Caso o documento de patch esteja malformado ou inválido.</response>
+        </member>
+        <member name="M:ApiFilmes.Controller.MovieController.RemoveMovie(System.Int32)">
+            <summary>
+                Remove um filme do banco de dados utilizando o ID.
+            </summary>
+            <param name="id">ID numérico do filme que deseja remover.</param>
+            <returns>IActionResult</returns>
+            <response code="204">Filme removido com sucesso.</response>
+            <response code="404">Caso não exista um filme com o ID informado.</response>
+        </member>
+        <member name="T:ApiFilmes.Data.MovieContext">
+            <summary>
+                Classe MovieContext
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Data.MovieContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{ApiFilmes.Data.MovieContext})">
+            <summary>
+                Construtor da classe
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Data.MovieContext.Movies">
+            <summary>
+                DataBaseSet Movie
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Data.MovieContext.Cinemas">
+            <summary>
+                DataBaseSet Cinema
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Data.MovieContext.Addresses">
+            <summary>
+                DataBaseSet Address
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Data.MovieContext.Sessions">
+            <summary>
+                DataBaseSet Session
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.CreateAddressDTO">
+            <summary>
+            Objeto de transferência de dados para a criação de um novo endereço.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateAddressDTO.Street">
+            <summary>
+            Logradouro/rua do endereço.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateAddressDTO.Number">
+            <summary>
+            O numero do endereço.
+            </summary>     
+        </member>
+        <member name="T:ApiFilmes.Dtos.ReadAddressDTO">
+            <summary>
+            Objeto de transferência de dados para a leitura de um endereço.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadAddressDTO.Id">
+            <summary>
+                id do endereço
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadAddressDTO.Street">
+            <summary>
+                Logradouro/rua endereço
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadAddressDTO.Number">
+            <summary>
+                Numero do endereço
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.UpdateAddressDTO">
+            <summary>
+            Objeto de transferência de dados para a atualização de um endereço.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.UpdateAddressDTO.Street">
+            <summary>
+                Logradouro/rua endereço
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.UpdateAddressDTO.Number">
+            <summary>
+                Numero do endereço
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.CreateCinemaDTO">
+            <summary>
+            Objeto de transferência de dados para a criação de um novo cinema.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateCinemaDTO.Name">
+            <summary>
+            O título do Cinema.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateCinemaDTO.AddressId">
+            <summary>
+            Id do endereço do cinema.
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.ReadCinemaDTO">
+            <summary>
+            Objeto de transferência de dados para a leitura de um cinema.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadCinemaDTO.Id">
+            <summary>
+                id do cinema
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadCinemaDTO.Name">
+            <summary>
+                Nome do cinema
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadCinemaDTO.Address">
+            <summary>
+                Endereço do cinema
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadCinemaDTO.Sessions">
+            <summary>
+            Lista de sessões 
+            </summary>        
+        </member>
+        <member name="T:ApiFilmes.Dtos.UpdateCinemaDTO">
+            <summary>
+            Objeto de transferência de dados para a atualização de um cinema.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.UpdateCinemaDTO.Name">
+            <summary>
+            Nome do cinema
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.CreateMovieDTO">
+            <summary>
+            Objeto de transferência de dados para a criação de um novo filme.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateMovieDTO.Id">
+            <summary>
+            Id do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateMovieDTO.Name">
+            <summary>
+            O título do filme.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateMovieDTO.Genre">
+            <summary>
+            O genero do filme.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateMovieDTO.Duration">
+            <summary>
+            O duração do filme.
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.ReadMovieDTO">
+            <summary>
+            Objeto de transferência de dados para a leitura de um filme.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadMovieDTO.Id">
+            <summary>
+                Id do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadMovieDTO.Name">
+            <summary>
+                Nome do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadMovieDTO.Genre">
+            <summary>
+                Genero do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadMovieDTO.Duration">
+            <summary>
+            Duração do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadMovieDTO.dateTime">
+            <summary>
+            Tempo data 
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadMovieDTO.Sessions">
+            <summary>
+            Lista de sessões 
+            </summary>        
+        </member>
+        <member name="T:ApiFilmes.Dtos.UpdateMovieDTO">
+            <summary>
+            Objeto de transferência de dados para a atualização de um filme.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.UpdateMovieDTO.Name">
+            <summary>
+            Nome do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.UpdateMovieDTO.Genre">
+            <summary>
+            Genero do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.UpdateMovieDTO.Duration">
+            <summary>
+            Duração do filme
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.CreateSessionDTO">
+            <summary>
+            Objeto de transferência de dados para a criação de uma nova session.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateSessionDTO.MovieId">
+            <summary>
+                Id do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.CreateSessionDTO.CinemaId">
+            <summary>
+                Id do Cinema
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Dtos.ReadSessionDTO">
+            <summary>
+            Objeto de transferência de dados para a leitura de uma sessão.
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadSessionDTO.MovieId">
+            <summary>
+                Id do filme
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Dtos.ReadSessionDTO.CinemaId">
+            <summary>
+                Id do cinema
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Entities.Address">
+            <summary>
+                Entitie Address
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Address.Id">
+            <summary>
+                id
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Address.Street">
+            <summary>
+                street
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Address.Number">
+            <summary>
+                number
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Address.Cinema">
+            <summary>
+                Vitual cinema
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Entities.Cinema">
+            <summary>
+                Entitie Cinema
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Cinema.Id">
+            <summary>
+             Id 
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Cinema.Name">
+            <summary>
+                name
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Cinema.AddressId">
+            <summary>
+               Id do endereço 
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Cinema.Address">
+            <summary>
+                Referencia do Endereço
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Cinema.Sessions">
+            <summary>
+                Sessão
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Entities.Movie">
+            <summary>
+                Entitie Movie
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Movie.Id">
+            <summary>
+             Id 
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Movie.Name">
+            <summary>
+                name
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Movie.Genre">
+            <summary>
+                genero
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Movie.Duration">
+            <summary>
+                duração
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Movie.Sessions">
+            <summary>
+                virtual lista de sessões
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Entities.Session">
+            <summary>
+                Entitie Sessão
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Session.MovieId">
+            <summary>
+             MovieId
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Session.Movie">
+            <summary>
+             Vitural movie
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Session.CinemaId">
+            <summary>
+                Id do cinema
+            </summary>
+        </member>
+        <member name="P:ApiFilmes.Entities.Session.Cinema">
+            <summary>
+               Virtual de cinema
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Migrations.CreateMovieTable">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.CreateMovieTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.CreateMovieTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.CreateMovieTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.AddressAndCinema">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.AddressAndCinema.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.AddressAndCinema.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.AddressAndCinema.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.SessionAndMovie">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndMovie.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndMovie.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndMovie.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.SessionAndMovieUpdated">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndMovieUpdated.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndMovieUpdated.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndMovieUpdated.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.SessionAndCinema">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndCinema.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndCinema.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.SessionAndCinema.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.MovieNullable">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.MovieNullable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.MovieNullable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.MovieNullable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.CinemaAndMovie">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.CinemaAndMovie.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.CinemaAndMovie.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.CinemaAndMovie.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Migrations.DeleteRestrict">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.DeleteRestrict.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.DeleteRestrict.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ApiFilmes.Migrations.DeleteRestrict.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:ApiFilmes.Profiles.AddressProfile">
+            <summary>
+                Classe auxiliar para a conversão de entities para DTO  
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Profiles.AddressProfile.#ctor">
+            <summary>
+                Construtor da classe 
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Profiles.CinemaProfile">
+            <summary>
+                Classe auxiliar para a conversão de entities para DTO  
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Profiles.CinemaProfile.#ctor">
+            <summary>
+                Construtor da classe 
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Profiles.MovieProfile">
+            <summary>
+                Classe auxiliar para a conversão de entities para DTO  
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Profiles.MovieProfile.#ctor">
+            <summary>
+                Construtor da classe 
+            </summary>
+        </member>
+        <member name="T:ApiFilmes.Profiles.SessionProfile">
+            <summary>
+                Classe auxiliar para a conversão de entities para DTO  
+            </summary>
+        </member>
+        <member name="M:ApiFilmes.Profiles.SessionProfile.#ctor">
+            <summary>
+                Construtor da classe 
+            </summary>
+        </member>
+        <member name="T:Program">
+            <summary>
+            Auto-generated public partial Program class for top-level statement apps.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Type)">
+            <summary>
+            Generates a documentation comment ID for a type.
+            Example: T:Namespace.Outer+Inner`1 becomes T:Namespace.Outer.Inner`1
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Reflection.PropertyInfo)">
+            <summary>
+            Generates a documentation comment ID for a property.
+            Example: P:Namespace.ContainingType.PropertyName or for an indexer P:Namespace.ContainingType.Item(System.Int32)
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Type,System.String)">
+            <summary>
+            Generates a documentation comment ID for a property given its container type and property name.
+            Example: P:Namespace.ContainingType.PropertyName
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Reflection.MethodInfo)">
+            <summary>
+            Generates a documentation comment ID for a method (or constructor).
+            For example:
+              M:Namespace.ContainingType.MethodName(ParamType1,ParamType2)~ReturnType
+              M:Namespace.ContainingType.#ctor(ParamType)
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.GetTypeDocId(System.Type,System.Boolean,System.Boolean)">
+            <summary>
+            Generates a documentation ID string for a type.
+            This method handles nested types (replacing '+' with '.'),
+            generic types, arrays, pointers, by-ref types, and generic parameters.
+            The <paramref name="includeGenericArguments"/> flag controls whether
+            constructed generic type arguments are emitted, while <paramref name="omitGenericArity"/>
+            controls whether the generic arity marker (e.g. "`1") is appended.
+            </summary>
+        </member>
+        <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.NormalizeDocId(System.String)">
+            <summary>
+            Normalizes a documentation comment ID to match the compiler-style format.
+            Strips the return type suffix for ordinary methods but retains it for conversion operators.
+            </summary>
+            <param name="docId">The documentation comment ID to normalize.</param>
+            <returns>The normalized documentation comment ID.</returns>
+        </member>
+    </members>
+</doc>

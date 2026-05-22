@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\bin\Debug\Invertendo Nomes.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\bin\Debug\Invertendo Nomes.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\bin\Debug\Invertendo Nomes.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\obj\Debug\Invertendo Nomes.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\obj\Debug\Invertendo Nomes.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\obj\Debug\Invertendo Nomes.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\obj\Debug\Invertendo Nomes.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Invertendo Nomes\Invertendo Nomes\obj\Debug\Invertendo Nomes.pdb

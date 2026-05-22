@@ -1,0 +1,14 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

@@ -1,0 +1,14 @@
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\bin\Debug\net7.0\SmartPhone.exe
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\bin\Debug\net7.0\SmartPhone.deps.json
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\bin\Debug\net7.0\SmartPhone.runtimeconfig.json
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\bin\Debug\net7.0\SmartPhone.dll
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\bin\Debug\net7.0\SmartPhone.pdb
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.AssemblyInfo.cs
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.dll
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\refint\SmartPhone.dll
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.pdb
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\SmartPhone.genruntimeconfig.cache
+C:\Users\Dev\Desktop\testecodigo\SmartPhone\obj\Debug\net7.0\ref\SmartPhone.dll

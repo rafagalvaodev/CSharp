@@ -1,0 +1,15 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\bin\Debug\net6.0\Tipos-de-Variáveis.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\bin\Debug\net6.0\Tipos-de-Variáveis.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\bin\Debug\net6.0\Tipos-de-Variáveis.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\bin\Debug\net6.0\Tipos-de-Variáveis.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\bin\Debug\net6.0\Tipos-de-Variáveis.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\refint\Tipos-de-Variáveis.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\Tipos-de-Variáveis.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Tipos-de-Variáveis\obj\Debug\net6.0\ref\Tipos-de-Variáveis.dll

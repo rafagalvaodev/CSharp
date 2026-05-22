@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\bin\Debug\AluguelDeCarro.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\bin\Debug\AluguelDeCarro.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\bin\Debug\AluguelDeCarro.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\obj\Debug\AluguelDeCarro.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\obj\Debug\AluguelDeCarro.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\obj\Debug\AluguelDeCarro.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\AluguelDeCarro\AluguelDeCarro\obj\Debug\AluguelDeCarro.pdb

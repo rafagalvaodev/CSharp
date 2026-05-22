@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "função reculsiva", "função reculsiva.csproj", "{AAEEA047-B899-40D8-B046-728C11F7C353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEEA047-B899-40D8-B046-728C11F7C353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEEA047-B899-40D8-B046-728C11F7C353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEEA047-B899-40D8-B046-728C11F7C353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEEA047-B899-40D8-B046-728C11F7C353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A883772-A52B-46BC-B773-53A6E9A53FE3}
+	EndGlobalSection
+EndGlobal

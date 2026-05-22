@@ -1,0 +1,8 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\bin\Debug\Programação Funcional.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\bin\Debug\Programação Funcional.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\bin\Debug\Programação Funcional.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\obj\Debug\Programação Funcional.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\obj\Debug\Programação Funcional.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\obj\Debug\Programação Funcional.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\obj\Debug\Programação Funcional.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Programação Funcional\obj\Debug\Programação Funcional.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2gKQbD43Nk=",
+  "success": true,
+  "projectFilePath": "/home/jalapc/Área de trabalho/C# gitHub/CSharp/Estudos/Switch/Switch.csproj",
+  "expectedPackageFiles": [
+    "/home/jalapc/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/jalapc/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/jalapc/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\bin\Debug\MetrosEmCentimentos.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\bin\Debug\MetrosEmCentimentos.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\bin\Debug\MetrosEmCentimentos.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\obj\Debug\MetrosEmCentimentos.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\obj\Debug\MetrosEmCentimentos.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\obj\Debug\MetrosEmCentimentos.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\MetrosEmCentimentos\MetrosEmCentimentos\obj\Debug\MetrosEmCentimentos.pdb

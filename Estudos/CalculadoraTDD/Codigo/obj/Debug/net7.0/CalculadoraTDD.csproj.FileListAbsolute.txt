@@ -1,0 +1,14 @@
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\bin\Debug\net7.0\CalculadoraTDD.exe
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\bin\Debug\net7.0\CalculadoraTDD.deps.json
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\bin\Debug\net7.0\CalculadoraTDD.runtimeconfig.json
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\bin\Debug\net7.0\CalculadoraTDD.dll
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\bin\Debug\net7.0\CalculadoraTDD.pdb
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.AssemblyInfo.cs
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.dll
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\refint\CalculadoraTDD.dll
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.pdb
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\CalculadoraTDD.genruntimeconfig.cache
+C:\Users\Dev\Desktop\CalculadoraTDD\Codigo\obj\Debug\net7.0\ref\CalculadoraTDD.dll

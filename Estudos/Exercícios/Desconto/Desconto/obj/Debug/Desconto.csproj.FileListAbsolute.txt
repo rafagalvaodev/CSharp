@@ -1,0 +1,7 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\bin\Debug\Desconto.exe.config
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\bin\Debug\Desconto.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\bin\Debug\Desconto.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\obj\Debug\Desconto.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\obj\Debug\Desconto.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\obj\Debug\Desconto.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\Desconto\Desconto\obj\Debug\Desconto.pdb

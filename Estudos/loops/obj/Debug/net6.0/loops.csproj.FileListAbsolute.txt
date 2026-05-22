@@ -1,0 +1,15 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\bin\Debug\net6.0\loops.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\bin\Debug\net6.0\loops.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\bin\Debug\net6.0\loops.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\bin\Debug\net6.0\loops.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\refint\loops.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C#\loops\obj\Debug\net6.0\ref\loops.dll
